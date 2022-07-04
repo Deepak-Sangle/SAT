@@ -1,0 +1,6 @@
+[submodule "Sudoku-Pair"]
+	path = Sudoku-Pair
+	url = https://github.com/Deepak-Sangle/Sudoku-Pair.git
+[submodule "SAT-Solver"]
+	path = SAT-Solver
+	url = https://github.com/Deepak-Sangle/SAT-Solver.git
